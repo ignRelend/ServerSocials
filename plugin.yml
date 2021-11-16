@@ -1,0 +1,20 @@
+main: me.relend.serversocials.ServerSocials
+name: ServerSocials
+version: 1.0
+api-version: 1.17
+commands:
+  discord:
+    description: Shows our discord invite!
+  youtube:
+    description: Shows our youtube channel!
+  twitter:
+    description: Shows our twitter page!
+  twitch:
+    description: Shows our twitch channel!
+  tiktok:
+    description: Shows our tiktok channel!
+  socials:
+    description: Shows all our socials!
+    aliases:
+      - serversocials
+      - social

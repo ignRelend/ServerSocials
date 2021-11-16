@@ -1,0 +1,23 @@
+#-------------------------#
+# ServerSocials by Relend #
+#-------------------------#
+
+# Prefix for all messages
+prefix: "&8[&4SERVER&8] "
+
+discord-enabled: true
+discord: "www.discord.gg/servername"
+
+twitter-enabled: true
+twitter: "www.twitter.com/servername"
+
+youtube-enabled: true
+youtube: "www.youtube.com/c/servername"
+
+tiktok-enabled: false
+tiktok: "www.tiktok.com/@servername"
+
+twitch-enabled: false
+twitch: "www.twitch.tv/servername"
+
+social-disabled: "&cWe currently do not have this social!"
